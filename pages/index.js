@@ -25,8 +25,7 @@ function index() {
           {/* Messages */}
           <Messages />
         </div>
-          <button onClick={logout} className="bg-yellow-500 rounded-lg p-5 font-bold">Logout</button>
-          <h1>Welcome to our website...</h1>
+          {/* <button onClick={logout} className="bg-yellow-500 rounded-lg p-5 font-bold">Logout</button> */}
       </main>
 
       <Footer />
